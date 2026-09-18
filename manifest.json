@@ -1,0 +1,13 @@
+{
+  "name": "Plumbers FC",
+  "short_name": "Plumbers FC",
+  "description": "Διαχείριση ραντεβού, πελατών, υλικών και τιμολόγησης για θερμοϋδραυλικούς",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f0f2f5",
+  "theme_color": "#1a2e1a",
+  "icons": [
+    { "src": "./icon.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

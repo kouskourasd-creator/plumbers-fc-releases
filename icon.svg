@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#13232c"/>
+  <g transform="translate(256,246)">
+    <!-- Wrench -->
+    <path d="M -70 -110 A 60 60 0 1 0 10 -30 L 90 50 L 60 80 L -20 0 A 60 60 0 0 0 -70 -110 Z"
+          fill="none" stroke="#f0a94e" stroke-width="26" stroke-linejoin="round" stroke-linecap="round"/>
+    <circle cx="-30" cy="-70" r="10" fill="#f0a94e"/>
+    <!-- Droplet accent -->
+    <path d="M 55 30 C 55 55 35 70 15 70 C -5 70 -25 55 -25 30 C -25 5 15 -35 15 -35 C 15 -35 55 5 55 30 Z"
+          fill="#4fa3d1" opacity=".9" transform="translate(20,60) scale(0.55)"/>
+  </g>
+  <text x="256" y="440" text-anchor="middle" font-family="Segoe UI,sans-serif" font-weight="800" font-size="72" fill="#f0a94e">FC</text>
+</svg>
